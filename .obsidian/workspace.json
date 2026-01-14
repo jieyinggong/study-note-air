@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timeline.md",
+                "file": "daily/week 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "timeline"
+              "title": "week 2"
             }
           },
           {
@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名/2026碎碎念.md",
+                "file": "timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026碎碎念"
+              "title": "timeline"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,13 +235,13 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "538e41d891491d36",
+  "active": "0f3333addf7decd7",
   "lastOpenFiles": [
-    "未命名.md",
     "timeline.md",
     "2026 winter progress.md",
-    "未命名/intro.md",
     "未命名/2026碎碎念.md",
+    "未命名.md",
+    "未命名/intro.md",
     "cscc01/w2.md",
     "cscd21/w2.md",
     "daily/week 2.md",

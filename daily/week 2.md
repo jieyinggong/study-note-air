@@ -43,11 +43,44 @@
 add course ddl在1.18啊🥹
 还好我查了一圈
 
+撑着去上课，就是为了找教授问一下组队的事情和team project
+感觉这个临时组起来的队伍好像都是中国人
+但是ins
+我ins使用特别的不熟练🥹
+总感觉这也是没有靠谱的队友的感觉（）
+
 ======================================================================
 
-1.14 Wed
+## 1.14 Wed
 
-‼️ 明天上午的coop advise walk-in 找coop coordinator！
-上一下cscc24 今天翘掉的tut（）
+- ‼️ 明天上午的coop advise walk-in 找coop coordinator！✅
+- 上一下cscc24 今天翘掉的tut（）
+
+着急忙慌的去找coop coordinator
+关于job search的课
+还好有每周三都有walk in的咨询🥹
+本来她有点为难
+说我block是因为按我的学分这学期是year 4
+然后这个job search的course是for first work term的所以就是说year 4是被restricted上这个课，所以可能要手动给我enroll
+但是我学分这学期结束再上两节课就18.5超过允许coop的学分限制了（）
+但是我还一段coop都没有，如果要满足coop program毕业要求的话必须要summer开始连续12个月的coop什么
+然后我：是这样子的，我从上学期就在找summer的，已经找到了这个summer开始连续12个月的coop，而且也留了最后一学期的学分了
+她说：所以说你已经有offer了，在加拿大的？
+我说：对的，签了agreement，在Toronto的
+
+、然后事情突然就好解决了
+因为她跟我说：你已经找到job的话，是不用上copb57的，因为这是for job searching的。这个课就是帮助学生secure a job的。如果我已经找到的话，相当于我就是已经examed了是不用上的。
+coop program的毕业要求就是完成三个work term就可以了
+但是我要填写某一个表格递交给学校审查coop和雇主资格
+这样就可以了（倒是说了要赶紧续签）
+还给我看了coop的要求中确实没有说要上这个课作为强制要求
+课的话上过的那两门coop course就行了
+啊
+我就说我之前肯定检查过的嘛，怎么会突然多出来课呢
+话说，还有这个课的啊
+怎么感觉学上着上着又亏了（虽然据说没有用？）
+那我找coop算什么，硬找？
+我们学校的coop coordinator还是人都很好的，很详细的给我看了之后要弄的东西，还给我congrats我找到了，并且安慰我不要太stress
+只能说我的coop program毕业计划真的很极限（）
 
 

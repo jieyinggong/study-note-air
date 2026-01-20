@@ -54,7 +54,12 @@ d21 和 d84 都感觉还是很有意思的，感觉能上完很厉害呀
 能轻松一些就感觉最后一个辛苦的学期也没那么难挨
 看到头了属于是
 
-
+c01的project
+怎么说呢
+就是
+honestly i can do everything
+but i cant
+所以说我要开始push他们了（
 
 
 

@@ -8,24 +8,31 @@ Due **Friday 1.16**:
 ## week 3 1.19-1.25
 Due **Friday 1.23**:
 - [x] CSCC01 lab 2  coding
-	- [ ] 还有两道short ans
+	- [x] 还有两道short ans
 - [x] CSC338 quiz 2 
 - [x] CSCC24 TUT2 -> marked as completed 
 - [x] CSCD21 Assignment 1 phase 1: **at 3 pm**
-- [ ] CSCD84 tut attendance question
+- [x] CSCD84 tut attendance question
 
 Due **Sunday 1.25**:
 - [ ] CSCD21 Assignment 1 phase 2
 
-1.26
-csc338 assignment 1
+## week 4 1.26-2.1
+Due **Monday 1.26**:
+- [ ] csc338 assignment 1
 
-1.30
-cscd84 assignment 1
+Due **Friday1.30**:
+- [ ] cscd84 assignment 1
+- [ ] CSC338 quiz 3
+- [ ] CSCD84 tut attendance question
 
-2.1 
-cscd21 assignment 1 phase 3
-cscc01 sprint0
+Due **Sunday 2.1**:
+- [ ] cscd21 assignment 1 phase 3
+- [ ] cscc01 sprint0
 
-2.14
+## week 5 2.2-2.8
+
+
+## week 6 2.9-2.15
+2.13
 cscd84 midterm in lec

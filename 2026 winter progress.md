@@ -20,7 +20,7 @@
 ### Task List
 - [ ] Tutorial / Lab ×4 — **10%**
 	- [x] lab 1
-	- [ ] lab 2
+	- [x] lab 2
 	- [ ] lab 3
 	- [ ] lab 4
 - [ ] Assignment 1（~ Feb 15） — **5%**
@@ -68,7 +68,7 @@
 
 #### Weekly Quizzes（10 次，每次 ~3%）
 - [x] Jan 16
-- [ ] Jan 23
+- [x] Jan 23
 - [ ] Jan 30
 - [ ] Feb 06
 - [ ] Feb 13

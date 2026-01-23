@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timeline.md",
+                "file": "daily/week 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "timeline"
+              "title": "week 3"
+            }
+          },
+          {
+            "id": "53fb973997b2da9a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "cscd84/lecture notes/D84_MiniMax.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "D84_MiniMax"
             }
           }
         ]
@@ -180,11 +192,13 @@
   },
   "active": "a9a340528caf15cf",
   "lastOpenFiles": [
+    "timeline.md",
     "2026 winter progress.md",
-    "未命名/intro.md",
+    "cscd84/lecture notes/D84_MiniMax.pdf",
+    "Wk3_Tutorial_1009388066.md",
     "daily/week 3.md",
     "daily/week 2.md",
-    "timeline.md",
+    "未命名/intro.md",
     "cscc24/flt_post.pdf",
     "cscc24/intro_post.pdf",
     "cscc24",
@@ -199,8 +213,6 @@
     "cscd21/notes",
     "cscd84/lecture notes/D84_NeuralNets.pdf",
     "cscd84/lecture notes/D84_CSPs.pdf",
-    "cscd84/lecture notes/D84_MiniMax.pdf",
-    "未命名.md",
     "未命名 1.md",
     "cscd84/w2.md"
   ]

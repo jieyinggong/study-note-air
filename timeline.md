@@ -7,19 +7,23 @@ Due **Friday 1.16**:
 
 ## week 3 1.19-1.25
 Due **Friday 1.23**:
-- [ ] CSCC01 lab 2 
-- [ ] CSC338 quiz 2 
-- [ ] CSCD21 Assignment 1 phase 1: **at 3 pm**
+- [x] CSCC01 lab 2  coding
+	- [ ] 还有两道short ans
+- [x] CSC338 quiz 2 
+- [x] CSCC24 TUT2 -> marked as completed 
+- [x] CSCD21 Assignment 1 phase 1: **at 3 pm**
+- [ ] CSCD84 tut attendance question
 
-Due **Sunday 1.26**:
+Due **Sunday 1.25**:
 - [ ] CSCD21 Assignment 1 phase 2
 
 1.26
-csc338
+csc338 assignment 1
 
 1.30
 cscd84 assignment 1
 
 2.1 
 cscd21 assignment 1 phase 3
+cscc01 sprint0
 

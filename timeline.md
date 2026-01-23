@@ -27,3 +27,5 @@ cscd84 assignment 1
 cscd21 assignment 1 phase 3
 cscc01 sprint0
 
+2.14
+cscd84 midterm in lec

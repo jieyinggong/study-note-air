@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/week 3.md",
+                "file": "timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "week 3"
+              "title": "timeline"
             }
           }
         ]
@@ -180,8 +180,10 @@
   },
   "active": "a9a340528caf15cf",
   "lastOpenFiles": [
-    "daily/week 2.md",
+    "2026 winter progress.md",
+    "未命名/intro.md",
     "daily/week 3.md",
+    "daily/week 2.md",
     "timeline.md",
     "cscc24/flt_post.pdf",
     "cscc24/intro_post.pdf",
@@ -190,8 +192,6 @@
     "未命名 1.base",
     "未命名.base",
     "cscc01/w2.md",
-    "未命名/intro.md",
-    "2026 winter progress.md",
     "未命名/2026碎碎念.md",
     "cscd21/notes/Blockchains.md",
     "cscd21/notes/Cryptography Toolbox.md",

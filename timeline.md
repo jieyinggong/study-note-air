@@ -26,6 +26,9 @@ Due **Friday1.30**:
 - [ ] CSC338 quiz 3
 - [ ] CSCD84 tut attendance question
 
+Due **Saturday 1.31**
+- [ ] cscc24 exercise 1
+
 Due **Sunday 2.1**:
 - [ ] cscd21 assignment 1 phase 3
 - [ ] cscc01 sprint0

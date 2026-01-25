@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "week 3"
             }
-          },
-          {
-            "id": "53fb973997b2da9a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "cscd84/lecture notes/D84_MiniMax.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "D84_MiniMax"
-            }
           }
         ]
       }
@@ -192,27 +180,28 @@
   },
   "active": "a9a340528caf15cf",
   "lastOpenFiles": [
-    "timeline.md",
-    "2026 winter progress.md",
-    "cscd84/lecture notes/D84_MiniMax.pdf",
-    "Wk3_Tutorial_1009388066.md",
+    "cscd84/lecture notes/D84_Search.pdf",
     "daily/week 3.md",
     "daily/week 2.md",
+    "timeline.md",
+    "2026 winter progress.md",
+    "cscd21/slides/CSCD21-Consensus.pdf",
+    "cscd21/slides/CSCD21-Blockchain.pdf",
+    "cscd21/slides/CSCD21-Introduction.pdf",
+    "cscd21/slides/CSCD21-KeyManagement.pdf",
+    "cscd84/lecture notes/D84_MiniMax.pdf",
+    "Wk3_Tutorial_1009388066.md",
     "未命名/intro.md",
     "cscc24/flt_post.pdf",
     "cscc24/intro_post.pdf",
     "cscc24",
     "未命名 2.base",
     "未命名 1.base",
-    "未命名.base",
     "cscc01/w2.md",
     "未命名/2026碎碎念.md",
     "cscd21/notes/Blockchains.md",
     "cscd21/notes/Cryptography Toolbox.md",
     "cscd21/w2.md",
-    "cscd21/notes",
-    "cscd84/lecture notes/D84_NeuralNets.pdf",
-    "cscd84/lecture notes/D84_CSPs.pdf",
     "未命名 1.md",
     "cscd84/w2.md"
   ]

@@ -15,23 +15,21 @@ Due **Friday 1.23**:
 - [x] CSCD84 tut attendance question
 
 Due **Sunday 1.25**:
-- [ ] CSCD21 Assignment 1 phase 2
+- [x] CSCD21 Assignment 1 phase 2
 
 ## week 4 1.26-2.1
 Due **Monday 1.26**:
-- [ ] csc338 assignment 1
+- [x] csc338 assignment 1
 
 Due **Friday1.30**:
 - [ ] cscd84 assignment 1
 - [ ] CSC338 quiz 3
 - [ ] CSCD84 tut attendance question
 
-Due **Saturday 1.31**
-- [ ] cscc24 exercise 1
-
 Due **Sunday 2.1**:
 - [ ] cscd21 assignment 1 phase 3
 - [ ] cscc01 sprint0
+- [ ] cscc24 exercise 1
 
 ## week 5 2.2-2.8
 

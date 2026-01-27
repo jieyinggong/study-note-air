@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "33f3fdf425f97bf5",
+        "id": "cd5874d5b5848d68",
         "type": "tabs",
         "children": [
           {
-            "id": "a9a340528caf15cf",
+            "id": "04b33871e9f900cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "daily/week 3.md",
-                "mode": "source",
-                "source": false
+                "aFile": "daily/week 3.md",
+                "bFile": "daily/week 3.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "week 3"
+              "icon": "diff",
+              "title": "Diff: week 3  (Working Tree)"
             }
           }
         ]
@@ -178,30 +178,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a9a340528caf15cf",
+  "active": "04b33871e9f900cf",
   "lastOpenFiles": [
-    "cscd84/lecture notes/D84_Search.pdf",
-    "daily/week 3.md",
-    "daily/week 2.md",
+    "cscd84/lecture notes/D84_CSPs.pdf",
+    "cscd84/lecture notes/D84_BayesNets.pdf",
     "timeline.md",
+    "cscd84/lecture notes/D84_NeuralNets.pdf",
+    "cscd84/lecture notes/D84_RL.pdf",
+    "cscd84/lecture notes/D84_Search.pdf",
+    "daily/week 2.md",
+    "daily/week 3.md",
+    "daily/week 4.md",
     "2026 winter progress.md",
-    "cscd21/slides/CSCD21-Consensus.pdf",
     "cscd21/slides/CSCD21-Blockchain.pdf",
-    "cscd21/slides/CSCD21-Introduction.pdf",
     "cscd21/slides/CSCD21-KeyManagement.pdf",
+    "cscd21/slides/CSCD21-Introduction.pdf",
+    "cscd21/w2.md",
+    "cscd21/slides/CSCD21-Consensus.pdf",
     "cscd84/lecture notes/D84_MiniMax.pdf",
     "Wk3_Tutorial_1009388066.md",
     "未命名/intro.md",
     "cscc24/flt_post.pdf",
-    "cscc24/intro_post.pdf",
-    "cscc24",
-    "未命名 2.base",
-    "未命名 1.base",
     "cscc01/w2.md",
     "未命名/2026碎碎念.md",
     "cscd21/notes/Blockchains.md",
     "cscd21/notes/Cryptography Toolbox.md",
-    "cscd21/w2.md",
     "未命名 1.md",
     "cscd84/w2.md"
   ]

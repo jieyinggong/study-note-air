@@ -11,14 +11,14 @@
             "id": "04b33871e9f900cf",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "daily/week 3.md",
-                "bFile": "daily/week 3.md",
-                "aRef": ""
+                "file": "daily/week 4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: week 3  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "week 4"
             }
           }
         ]
@@ -180,16 +180,16 @@
   },
   "active": "04b33871e9f900cf",
   "lastOpenFiles": [
+    "daily/week 3.md",
+    "daily/week 4.md",
+    "2026 winter progress.md",
+    "timeline.md",
     "cscd84/lecture notes/D84_CSPs.pdf",
     "cscd84/lecture notes/D84_BayesNets.pdf",
-    "timeline.md",
     "cscd84/lecture notes/D84_NeuralNets.pdf",
     "cscd84/lecture notes/D84_RL.pdf",
     "cscd84/lecture notes/D84_Search.pdf",
     "daily/week 2.md",
-    "daily/week 3.md",
-    "daily/week 4.md",
-    "2026 winter progress.md",
     "cscd21/slides/CSCD21-Blockchain.pdf",
     "cscd21/slides/CSCD21-KeyManagement.pdf",
     "cscd21/slides/CSCD21-Introduction.pdf",
@@ -198,7 +198,6 @@
     "cscd84/lecture notes/D84_MiniMax.pdf",
     "Wk3_Tutorial_1009388066.md",
     "未命名/intro.md",
-    "cscc24/flt_post.pdf",
     "cscc01/w2.md",
     "未命名/2026碎碎念.md",
     "cscd21/notes/Blockchains.md",

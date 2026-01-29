@@ -30,10 +30,11 @@ Due **Sunday 2.1**:
 - [ ] cscd21 assignment 1 phase 3
 - [ ] cscc01 sprint0
 - [ ] cscc24 exercise 1
+- [ ] cscc01 lab 3
 
 ## week 5 2.2-2.8
 
 
 ## week 6 2.9-2.15
 2.13
-cscd84 midterm in lec
+- [ ] cscd84 midterm in lec

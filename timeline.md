@@ -22,9 +22,9 @@ Due **Monday 1.26**:
 - [x] csc338 assignment 1
 
 Due **Friday1.30**:
-- [ ] cscd84 assignment 1
-- [ ] CSC338 quiz 3
-- [ ] CSCD84 tut attendance question
+- [x] cscd84 assignment 1
+- [x] CSC338 quiz 3
+- [x] CSCD84 tut attendance question
 
 Due **Sunday 2.1**:
 - [ ] cscd21 assignment 1 phase 3

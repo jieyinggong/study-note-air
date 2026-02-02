@@ -21,7 +21,7 @@
 - [ ] Tutorial / Lab ×4 — **10%**
 	- [x] lab 1
 	- [x] lab 2
-	- [ ] lab 3
+	- [x] lab 3
 	- [ ] lab 4
 - [ ] Assignment 1（~ Feb 15） — **5%**
 - [ ] Assignment 2（~ Mar 22） — **5%**
@@ -111,7 +111,7 @@
 - Final Exam：45%（⚠️ Final ≥35%）
 
 ### Task List
-- [ ] Assignment 1
+- [x] Assignment 1
 - [ ] Assignment 2
 - [ ] Assignment 3  
   **合计 15%**

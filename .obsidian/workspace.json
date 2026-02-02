@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名/2026碎碎念.md",
+                "file": "daily/week 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026碎碎念 的大纲"
+              "title": "week 4 的大纲"
             }
           },
           {
@@ -193,17 +193,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7f433a7c98c190fa",
+  "active": "8cbd9dc7ecfcb35b",
   "lastOpenFiles": [
-    "未命名/week 3.md",
     "未命名/2026碎碎念.md",
-    "未命名/intro.md",
-    "未命名/week 2.md",
     "daily/week 4.md",
-    "未命名.md",
-    "timeline.md",
-    "project description.md",
     "2026 winter progress.md",
+    "project description.md",
+    "timeline.md",
+    "未命名/week 3.md",
+    "未命名/week 2.md",
+    "week 2.md",
+    "未命名/intro.md",
+    "未命名.md",
     "cscd21/w2.md",
     "cscd84/w2.md",
     "cscd84/lecture notes/D84_BayesNets.pdf",

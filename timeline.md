@@ -25,12 +25,13 @@ Due **Friday1.30**:
 - [x] cscd84 assignment 1
 - [x] CSC338 quiz 3
 - [x] CSCD84 tut attendance question
+Due **Saturday1.30**:
+- [x] cscc01 lab 3
 
 Due **Sunday 2.1**:
 - [ ] cscd21 assignment 1 phase 3
-- [ ] cscc01 sprint0
-- [ ] cscc24 exercise 1
-- [ ] cscc01 lab 3
+	- 写不完了要个extension吧...下周没那么多事
+- [x] cscc01 sprint0
 
 ## week 5 2.2-2.8
 

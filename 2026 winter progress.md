@@ -36,6 +36,7 @@
 ---
 
 ## CSCC24
+- drop吧
 
 **Marking Scheme**
 - Homework Exercises：25%

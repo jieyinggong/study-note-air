@@ -63,14 +63,14 @@
 ### Task List
 
 #### Crowdmark Assignments
-- [ ] Assignment 1 — Jan 26 — **10%**
+- [x] Assignment 1 — Jan 26 — **10%**
 - [ ] Assignment 2 — Feb 23 — **10%**
 - [ ] Assignment 3 — Mar 23 — **10%**
 
 #### Weekly Quizzes（10 次，每次 ~3%）
 - [x] Jan 16
 - [x] Jan 23
-- [ ] Jan 30
+- [x] Jan 30
 - [ ] Feb 06
 - [ ] Feb 13
 - [ ] Feb 27

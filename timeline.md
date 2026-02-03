@@ -29,13 +29,21 @@ Due **Saturday1.30**:
 - [x] cscc01 lab 3
 
 Due **Sunday 2.1**:
-- [ ] cscd21 assignment 1 phase 3
-	- 写不完了要个extension吧...下周没那么多事
+-  cscd21 assignment 1 phase 3 -> extend
 - [x] cscc01 sprint0
 
 ## week 5 2.2-2.8
-
+Due **Thursday 2.5**:
+- [ ] cscd21 assignment 1 phase 3
+Due **Friday 2.6**:
+- [ ] CSC338 quiz 4
+- [ ] CSCD84 tut attendance question
+Due **Saturday 2.7**
+ - [ ] cscc01 lab 4
+ 
 
 ## week 6 2.9-2.15
 2.13
 - [ ] cscd84 midterm in lec
+2.15 
+- [ ] cscc01 sprint 1

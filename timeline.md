@@ -34,11 +34,12 @@ Due **Sunday 2.1**:
 
 ## week 5 2.2-2.8
 Due **Thursday 2.5**:
-- [ ] cscd21 assignment 1 phase 3
+- [x] cscd21 assignment 1 phase 3
 Due **Friday 2.6**:
-- [ ] CSC338 quiz 4
+- [x] CSC338 quiz 4
 - [ ] CSCD84 tut attendance question
-Due **Saturday 2.7**
+- 11.59 的ddl改成了10.59， 坏啊！！
+Due **Sunday 2.8**
  - [ ] cscc01 lab 4
  
 

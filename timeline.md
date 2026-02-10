@@ -40,11 +40,15 @@ Due **Friday 2.6**:
 - [ ] CSCD84 tut attendance question
 - 11.59 的ddl改成了10.59， 坏啊！！
 Due **Sunday 2.8**
- - [ ] cscc01 lab 4
+ - [x] cscc01 lab 4
  
 
 ## week 6 2.9-2.15
 2.13
-- [ ] cscd84 midterm in lec
+- [ ] cscd84 midterm in lec ‼️
+2.14
+- 情人节......（单身狗不过情人节😡）
+- 去年好像就是这段时间又去骚扰某人的
+	- 比现在可爱（）
 2.15 
 - [ ] cscc01 sprint 1

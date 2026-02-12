@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timeline.md",
+                "file": "daily/week 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "timeline"
+              "title": "week 6"
             }
           },
           {
@@ -209,10 +209,10 @@
   },
   "active": "8cbd9dc7ecfcb35b",
   "lastOpenFiles": [
+    "timeline.md",
     "daily/week 6.md",
     "未命名/week 5.md",
     "未命名/week 4.md",
-    "timeline.md",
     "未命名/week Timeout.md",
     "cscd21/w5.md",
     "2026 winter progress.md",

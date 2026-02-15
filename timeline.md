@@ -45,7 +45,10 @@ Due **Sunday 2.8**
 
 ## week 6 2.9-2.15
 2.13
-- [ ] cscd84 midterm in lec ‼️
+- [x] cscd84 midterm in lec ‼️
+- [x] cscc01 sprint1 demo pre
+- [x] d84 tut question
+- [x] 338 quiz
 2.14
 - 情人节......（单身狗不过情人节😡）
 - 去年好像就是这段时间又去骚扰某人的

@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Reading week.md",
+                "file": "daily/week 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reading week"
+              "title": "week 7"
             }
           }
         ],
@@ -220,7 +220,8 @@
   "active": "115a10d146f2995d",
   "lastOpenFiles": [
     "daily/未命名.md",
-    "daily/Reading week.md",
+    "daily/week 7.md",
+    "未命名/Reading week.md",
     "未命名/week 6.md",
     "未命名/week 2.md",
     "未命名/week 5.md",

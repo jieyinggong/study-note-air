@@ -49,14 +49,12 @@
             "id": "115a10d146f2995d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "daily/week 7.md",
-                "mode": "source",
-                "source": false
+                "file": "other/xenophobic attacks on foreign nationals-SA by MINTY.pdf"
               },
-              "icon": "lucide-file",
-              "title": "week 7"
+              "icon": "lucide-file-text",
+              "title": "xenophobic attacks on foreign nationals-SA by MINTY"
             }
           }
         ],
@@ -219,8 +217,12 @@
   },
   "active": "115a10d146f2995d",
   "lastOpenFiles": [
-    "daily/未命名.md",
     "daily/week 7.md",
+    "other/xenophobic attacks on foreign nationals-SA by MINTY.pdf",
+    "xenophobic attacks on foreign nationals-SA by MINTY.pages.sb-e9bafbe5-V7kxuJ",
+    "other",
+    "xenophobic attacks on foreign nationals-SA by MINTY.pages",
+    "daily/未命名.md",
     "未命名/Reading week.md",
     "未命名/week 6.md",
     "未命名/week 2.md",
@@ -235,9 +237,6 @@
     "cscd84/lecture notes/D84_NeuralNets.pdf",
     "cscd84/lecture notes/D84_CSPs.pdf",
     "cscd84/T6_QLearning.pdf",
-    "cscd84/T4_MiniMax-1.pdf",
-    "cscd84/T2_CSPs.pdf",
-    "cscd84/T1_Search.pdf",
     "未命名/week 4.md",
     "cscd21/w5.md",
     "未命名/intro.md",
@@ -247,7 +246,6 @@
     "cscd21/w2.md",
     "cscd84/w2.md",
     "w4.md",
-    "cscd21/slides/CSCD21-Blockchain.pdf",
     "Wk3_Tutorial_1009388066.md",
     "cscc01/w2.md",
     "cscd21/notes/Blockchains.md",

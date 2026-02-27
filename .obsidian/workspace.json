@@ -49,12 +49,14 @@
             "id": "115a10d146f2995d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "other/xenophobic attacks on foreign nationals-SA by MINTY.pdf"
+                "file": "daily/week 7.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "xenophobic attacks on foreign nationals-SA by MINTY"
+              "icon": "lucide-file",
+              "title": "week 7"
             }
           }
         ],
@@ -217,12 +219,13 @@
   },
   "active": "115a10d146f2995d",
   "lastOpenFiles": [
+    "daily/未命名.md",
     "daily/week 7.md",
+    "cscd84/w2.md",
     "other/xenophobic attacks on foreign nationals-SA by MINTY.pdf",
     "xenophobic attacks on foreign nationals-SA by MINTY.pages.sb-e9bafbe5-V7kxuJ",
     "other",
     "xenophobic attacks on foreign nationals-SA by MINTY.pages",
-    "daily/未命名.md",
     "未命名/Reading week.md",
     "未命名/week 6.md",
     "未命名/week 2.md",
@@ -244,7 +247,6 @@
     "未命名/week 3.md",
     "week 2.md",
     "cscd21/w2.md",
-    "cscd84/w2.md",
     "w4.md",
     "Wk3_Tutorial_1009388066.md",
     "cscc01/w2.md",

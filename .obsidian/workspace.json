@@ -39,18 +39,16 @@
             "id": "31738f4300a88104",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "新房子/Screenshot 2026-03-28 at 12.51.58 AM.png"
               },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "icon": "lucide-image",
+              "title": "Screenshot 2026-03-28 at 12.51.58 AM"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,10 +205,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7f433a7c98c190fa",
+  "active": "b51ef435e6d55888",
   "lastOpenFiles": [
-    "未命名 1.md",
+    "新房子/GetMedia.jpeg",
+    "新房子/GetMedia (1).jpeg",
+    "新房子/GetMedia (2).jpeg",
+    "新房子/GetMedia (3).jpeg",
+    "新房子/GetMedia (4).jpeg",
+    "新房子/Screenshot 2026-03-28 at 12.51.58 AM.png",
     "未命名.md",
+    "新房子",
+    "未命名 1.md",
     "未命名 1",
     "NO CHEATING.md",
     "未命名/assignment 1.md",
@@ -218,9 +223,6 @@
     "未命名/uml-class-final.png",
     "未命名/uml-class-v2.png",
     "未命名/uml-class-v1.png",
-    "未命名/uml-seq-final.png",
-    "未命名/uml-seq-v2.png",
-    "未命名/uml-seq-v1.png",
     "未命名/old/2026 winter progress.md",
     "未命名/old/project description.md",
     "未命名/old/timeline.md",
@@ -242,7 +244,6 @@
     "未命名/old/cscd84/lecture notes/D84_Search.pdf",
     "未命名/old/cscd84/lecture notes/D84_BayesNets.pdf",
     "未命名/old/cscd84/lecture notes/D84_RL.pdf",
-    "未命名/old/cscd84/lecture notes/D84_NeuralNets.pdf",
     "未命名/week 4.md",
     "未命名/old/cscd21/w5.md",
     "未命名/week 3.md",
@@ -250,7 +251,6 @@
     "未命名/old/cscd21/w2.md",
     "w4.md",
     "Wk3_Tutorial_1009388066.md",
-    "未命名/old/cscc01/w2.md",
-    "未命名/old/cscd21/notes/Blockchains.md"
+    "未命名/old/cscc01/w2.md"
   ]
 }

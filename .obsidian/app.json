@@ -2,8 +2,8 @@
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
-    "landscape": false,
+    "landscape": true,
     "margin": "2",
-    "downscalePercent": 88
+    "downscalePercent": 83
   }
 }

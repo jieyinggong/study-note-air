@@ -53,14 +53,14 @@
             "id": "ceb383202272e803",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "未命名 1.md",
-                "bFile": "未命名 1.md",
-                "aRef": ""
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 未命名 1  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -235,8 +235,8 @@
   },
   "active": "ceb383202272e803",
   "lastOpenFiles": [
-    "未命名.md",
     "未命名 1.md",
+    "未命名.md",
     "新房子/Screenshot 2026-03-28 at 12.51.58 AM.png",
     "未命名/In-class activity4.md",
     "未命名 3",

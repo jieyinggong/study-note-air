@@ -67,16 +67,18 @@
             "id": "78dbd66142e6025f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "新房子/Screenshot 2026-03-28 at 12.51.58 AM.png"
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2026-03-28 at 12.51.58 AM"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -233,13 +235,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ceb383202272e803",
+  "active": "78dbd66142e6025f",
   "lastOpenFiles": [
     "未命名 1.md",
+    "新房子/Screenshot 2026-03-28 at 12.51.58 AM.png",
     "未命名.md",
     "shopping list.md",
     "新房子/未命名白板 2.jpeg",
-    "新房子/Screenshot 2026-03-28 at 12.51.58 AM.png",
     "未命名/In-class activity4.md",
     "未命名 3",
     "新房子/GetMedia (3).jpeg",

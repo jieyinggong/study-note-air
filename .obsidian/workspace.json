@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "未命名"
             }
+          },
+          {
+            "id": "add0361efbe63471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "338 - w1-w5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "338 - w1-w5"
+            }
+          },
+          {
+            "id": "b778d680e6400cf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,10 +207,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7349463b7be899df",
+  "active": "b778d680e6400cf7",
   "lastOpenFiles": [
-    "shopping list.md",
+    "未命名 1.md",
     "未命名.md",
+    "shopping list.md",
+    "338 - w1-w5.md",
+    "未命名/接下来的course plan.md",
     "新房子/未命名白板 2.jpeg",
     "Screenshot 2026-04-16 at 8.59.05 PM.png",
     "C01/Week#6, Software Engineering,AI.pdf",
@@ -194,7 +226,6 @@
     "C01/Week 1,Intro to Software Engineering .pdf",
     "C01/Week #9, Cloud Native Development.pdf",
     "C01/Week #8, Design Patterns.pdf",
-    "未命名 1.md",
     "新房子/Screenshot 2026-03-28 at 12.51.58 AM.png",
     "未命名/In-class activity4.md",
     "新房子/GetMedia (3).jpeg",
@@ -223,7 +254,6 @@
     "未命名/week 5.md",
     "未命名/week Timeout.md",
     "未命名/week 4.md",
-    "未命名/old/cscd21/w5.md",
-    "未命名/week 3.md"
+    "未命名/old/cscd21/w5.md"
   ]
 }

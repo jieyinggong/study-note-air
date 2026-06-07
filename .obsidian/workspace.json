@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "未命名"
             }
+          },
+          {
+            "id": "927e7aaca2c7d16c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +193,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "06ef5802639bf370",
+  "active": "927e7aaca2c7d16c",
   "lastOpenFiles": [
-    "未命名/338 - w1-w5.md",
+    "未命名/Arts & Science Co-op - On Work Term Goal Setting & Tracking.md",
     "未命名.md",
+    "未命名/338 - w1-w5.md",
     "未命名/未命名 2.md",
     "未命名/hw 1.md",
     "未命名/未命名 3.md",
@@ -224,7 +240,6 @@
     "未命名/old/daily/未命名.md",
     "未命名/week 7.md",
     "未命名/week 6.md",
-    "未命名/week 2.md",
-    "未命名/week 5.md"
+    "未命名/week 2.md"
   ]
 }
